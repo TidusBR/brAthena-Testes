@@ -1,0 +1,4 @@
+-	script	brAthenaMOTD	-1,{
+	message strcharinfo(0),"Welcome to brAthena! Enjoy! Please report any bugs you find.";
+	end;
+}
